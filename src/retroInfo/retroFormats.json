@@ -1,0 +1,47 @@
+{
+  "retroFormats": [
+    {
+      "title": "4 L's: Liked / Lacked / Learned / Longed for",
+      "tools": "Online retro meeting tool OR sticky notes",
+      "prep": "15 minutes",
+      "delivery": "If using sticky notes, give each person on the team a pad of sticky notes and a pen.  Focusing on one column at a time, have the team write examples of things they liked/lacked/learned/longed for.  Once the team is done, have each individual post the note on the wall under the respective column.  Emphasize they do not need to group the ideas in real time as this will be done in a later step.  Team box each column to 5min.  If you notice the team has finished before the time box, move on to the next column.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "title": "Words from a Hat",
+      "tools": "notecards (sticky notes if no whiteboard wall), pens, whiteboard markers, a hat or large container to put folded notecards in, whiteboard",
+      "prep": "5 minutes",
+      "delivery": "Give each person 1 notecard and a pen.  Ask the team to summarize the most recent sprint in one word (hyphenated words are ok).  Encourage the team to avoid general words such as 'good' or 'bad'.  Once the team has finished, have the each person fold up their card and place it in the hat. Divide the board into 2 sections: positive and negative.",
+      "teamType": [
+        "Internal"
+      ],
+      "teamSize": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Sailboat retro",
+      "tools": "digital or physical drawing of a sailboat with wind, rocks, an island, and sun",
+      "prep": "5 min",
+      "delivery": "Focusing on one section at a time for 3-5minutes, have the team write down descriptions on how the current sprint (the boat) felt helped the sprint (wind), delay the sprint (anchor), future risks (rocks), what the end goal for the next sprint/project (island), and any shout outs that made the project better.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "warmups": [
+    {
+      "title": "Who Said It?",
+      "tools": "",
+      "delivery": "Pull `quotable-quotes` from things that were said by the team within the most recent sprint in public forums (ie - Slack, emails, said in stand ups, etc…).  Create presentation that displays quote and quoter and have team guess which team member said which quote.  Limit activity to maximum 10 quotes.",
+      "goal": "Gets people thinking about what happened during the closing sprint to prime them in a better position to talk about what all happened.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ],
+      "prepTime": "15 minutes"
+    },
+    {
+      "title": "Rock Paper Scissors",
+      "prep": "5 minutes",
+      "delivery": "Make or purchase a medal for the winner.  Have people pair up for a rock/paper/scissors elimination battle.",
+      "goal": "Gets people active and interacting with team members.  Sets people up to be more comfortable sharing thoughts and ideas with the team",
+      "teamType": [
+        "Internal"
+      ],
+      "teamSize": [
+        "S",
+        "M"
+      ],
+      "prepTime": "15 minutes"
+      },
+    {
+      "title": "Rock Paper Scissors, hop scotch race edition",
+      "delivery": "On the floor, mark a path on the floor with 'x's using masking tape or sticky notes.  Space the markers 1-2 ft apart, far enough that a person can jump between the next marker.  Create a start line at both ends of the path.  Have the team divide into 2 equal teams.  Have each team line up at opposite ends of the path.  When the facilitator says 'Go', one person from each team hops from marker to marker.  When they meet in the path, both people play rock/paper/scissors in a sudden death elimination match.  The loser of the match returns to the back of the line on their team's side.  The winner continues going hopping forward until the next player meeting.  The game continues until a team member successfully crosses the opposite end's starting line.",
+      "goal": "Get people active and interacting with team members.  Given the high physical involvement, this activity is good to release some energy before going into a retro.  Sets people to cheer for their team mates.",   
+      "teamType": [
+        "Internal"
+      ],
+      "teamSize": [
+        "S"
+      ],
+      "prepTime": "15 minutes"
+    },
+    {
+      "title": "Company trivia",
+      "delivery": "Create a presentation with a mix of company or project trivia.  Avoid 'yes/no' answers.  Have the entire team guess on what the correct answer is together.  Limit activity to maximum 10 questions.",
+      "goal": "Gets people to work and think together about the company they work, Dialexa or client side in a low stress environment.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ],
+      "prepTime": "15 minutes"
+      },
+    {
+      "title": "2 Truths and a Lie",
+      "delivery": "Before retro, ask individuals on your team to volunteer 2 truths and 1 lie about themselves.  Be sure to let them know not to tell you the lie.  Create a presentation and have the team vote on what the lie is.  Limit activity to maximum 4 participants",
+      "goal": "Gets people to know their team members on a personal level, creating an empathetic and trusting environment going into retro.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ],
+      "prepTime": "15 minutes"
+      },
+    {
+      "title": "Why Retrospectives",
+      "delivery": "Before the retro, ask the team: Why do we do retrospectives?, What value do we see in having retros?, What are retros lacking? Write answers on whiteboard or computer",
+      "goal": "Serves as a health check on retros themselves.  Helps gain buy in from the whole team in having retros.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ],
+      "prepTime": "0 minutes"
+      }
+  ]
+}

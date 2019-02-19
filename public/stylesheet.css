@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Aaux Next';
+    src: url('AauxNext-Regular.eot');
+    src: url('AauxNext-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AauxNext-Regular.woff2') format('woff2'),
+        url('AauxNext-Regular.woff') format('woff'),
+        url('AauxNext-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,15 @@
+{
+  "teamMakeUps": [
+    "Internal",
+    "External"
+  ],
+  "teamSizes": [
+    "S (< 5)",
+    "M (5 <, < 15)",
+    "L (15 <)"
+  ],
+  "prepTimes": [
+    "> 30 minutes",
+    "< 30 minutes"
+  ]
+}
