@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div>
+    <!-- <div>
       <h1>Select info about your team and prep time</h1>
     </div>
     
@@ -31,18 +31,41 @@
           </option>
         </select>
       </div>
-    </div>
+    </div> -->
 
     <button @click="displayRandomRetro">Generate Random Retro</button>
 
     <h2>Suggested Retro</h2>
 
     <h3>Set the Stage</h3>
-    <p>Title: </p>
-    <p> {{ displayedWarmup.title }}</p>
+    
+    <div class="row-group">
+      <p>Title: </p>
+      <p> {{ displayedWarmup.title }}</p>
+    </div>
+
+    <div class="row-group">
+      <p>Delivery: </p>
+      <p> {{ displayedWarmup.delivery }}</p>
+    </div>
+
+    <div class="row-group">
+      <p>Goal: </p>
+      <p> {{ displayedWarmup.goal }}</p>
+    </div>
+
 
     <h3>Gather data</h3>
-    <p> {{ displayedFormat.title }}</p>   
+
+    <div class="row-group">
+      <p>Title: </p>
+      <p> {{ displayedFormat.title }}</p>  
+    </div>
+ 
+     <div class="row-group">
+      <p>Delivery: </p>
+      <p> {{ displayedFormat.delivery }}</p>  
+    </div>
 
   </div>
 </template>
@@ -70,8 +93,8 @@ export default {
         prepTime: ''
       },
 
-      displayedWarmup: '',
-      displayedFormat: '',
+      displayedWarmup: warmups[0],
+      displayedFormat: retroFormats[0],
 
       filteredWarmups: '',
       filteredFormats: ''
@@ -92,5 +115,13 @@ export default {
 <style>
 #app {
   font-family: 'Aaux Next'
+}
+
+.row-group p {
+    display: inline-block
+}
+
+p:first-of-type {
+  margin-right: 1rem;
 }
 </style>

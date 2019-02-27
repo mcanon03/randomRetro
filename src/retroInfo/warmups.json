@@ -2,7 +2,6 @@
   "warmups": [
     {
       "title": "Who Said It?",
-      "tools": "",
       "delivery": "Pull `quotable-quotes` from things that were said by the team within the most recent sprint in public forums (ie - Slack, emails, said in stand ups, etc…).  Create presentation that displays quote and quoter and have team guess which team member said which quote.  Limit activity to maximum 10 quotes.",
       "goal": "Gets people thinking about what happened during the closing sprint to prime them in a better position to talk about what all happened.",
       "teamType": [
@@ -86,6 +85,21 @@
         "L"
       ],
       "prepTime": "0 minutes"
-      }
+    },
+    {
+      "title": "Who Sits Where?",
+      "delivery": "Before retro, ask individuals on your team to take pictures of their desk or whichever view they see the most during the work week.",
+      "goal": "Gets people thinking about what happened during the closing sprint to prime them in a better position to talk about what all happened.",
+      "teamType": [
+        "Internal",
+        "External"
+      ],
+      "teamSize": [
+        "S",
+        "M",
+        "L"
+      ],
+      "prepTime": "15 minutes"
+    }
   ]
 }
